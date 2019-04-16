@@ -1,0 +1,17 @@
+# vi swp file
+*.swp
+
+# compiled file
+*.o
+
+# Test file
+test.cpp
+test.c
+test
+*.sh
+
+# this file is for the editor config file
+.editorconfig
+
+# binary file
+myftp
